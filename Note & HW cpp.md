@@ -6,7 +6,24 @@ Four Features of OOP with Examples:
 1. Encapsulation
  
    Encapsulation is the process of binding data and methods into a single unit (class) and restricting direct access to data.
-2. 
+   
+   Example:
+```cpp
+   class Student {
+   private:
+    int age;
+
+public:
+    void setAge(int a) {
+        age = a;
+    }
+
+    int getAge() {
+        return age;
+    }
+};
+  ```
+3. 
 
    
 
