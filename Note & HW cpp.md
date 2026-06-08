@@ -13,7 +13,7 @@ Four Features of OOP with Examples:
    private:
     int age;
 
-public:
+   public:
     void setAge(int a) {
         age = a;
     }
@@ -23,8 +23,55 @@ public:
     }
 };
   ```
-3. 
+2. Inheritance
 
-   
+Inheritance allows a new class to acquire properties and methods of an existing class.
 
+Example:
+```cpp
+   class Animal {
+   public:
+    void sound() {
+        cout << "Animal Sound";
+        }
+   };
+
+   class Dog : public Animal {
+   };
+```
+Here, Dog inherits the sound() method from Animal.
+
+Benefit: Promotes code reusability.
+
+3. Polymorphism
+
+Polymorphism means one interface, many forms. The same function can perform different tasks.
+
+Example:
+```cpp
+   class Shape {
+   public:
+      void draw() {
+          cout << "Drawing Shape";
+      }
+   };
+
+   class Circle : public Shape {
+   public:
+      void draw() {
+          cout << "Drawing Circle";
+      }
+   };
+```
+4. Abstraction
+
+Abstraction means showing only essential information and hiding implementation details.
+
+Example:
+```cpp
+class ATM {
+public:
+    void withdrawMoney();
+};
+```
  
