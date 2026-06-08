@@ -25,6 +25,7 @@ Four Features of OOP with Examples:
 };
   ```
 Benefit: Protects data from unauthorized access.
+
 2. Inheritance
 
 Inheritance allows a new class to acquire properties and methods of an existing class.
