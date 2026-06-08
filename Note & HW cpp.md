@@ -77,4 +77,16 @@ public:
     void withdrawMoney();
 };
 ```
- 
+
+**Difference Between OOP and POP**
+
+| Basic | OOP (Object-Oriented Programming) | POP(Procedure-Oriented programming) |
+| --- | --- | --- |
+| Approach | Object-Based | Function-Based  |
+| Focus | Data and Objects | Functions and Procedures |
+| Data Security | High due to encapsulation | Less Secure |
+| Reusability | Supports inheritance and reusability | Limited reusability |
+| Program Design | Bottom-up approach | Top-down approach |
+| Data Access | Data can be hidden using access specifiers | Data is generally global and accessible |
+| Example: | C++, Python | C |
+
