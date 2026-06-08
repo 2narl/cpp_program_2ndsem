@@ -4,6 +4,10 @@ Object-Oriented Programming (OOP) is a programming paradigm that organizes softw
 
 Four Features of OOP with Examples:
 1. Encapsulation
-
-Encapsulation is the process of binding data and methods into a single unit (class) and restricting direct access to data.
+ 
+   Encapsulation is the process of binding data and methods into a single unit (class) and restricting direct access to data.
 2. 
+
+   
+
+ 
