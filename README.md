@@ -1,1 +1,1 @@
-# cpp_program_2ndsem
+# Object Oriented Programming in C++ (BIT154CO)
