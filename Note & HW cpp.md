@@ -2,6 +2,7 @@ Q.n.1. What is OOP? Explain any four features with examples. Differntiate OOP an
 
 Object-Oriented Programming (OOP) is a programming paradigm that organizes software design around objects rather than functions and procedures. An object contains data (attributes) and methods or functions that operate on the data.
 
+Examples of OOP languages C++, python.
 Four Features of OOP with Examples:
 1. Encapsulation
  
