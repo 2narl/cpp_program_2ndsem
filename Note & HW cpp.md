@@ -305,7 +305,15 @@ Using setw() and setfill():
 Using setprecision():
 123.46
 ```
+Advantages of Manipulators:
 
+1.Improve output formatting.
+
+2.Make data presentation clear and attractive.
+
+3.Control width, precision, alignment, and fill characters.
+
+4.Useful in reports, tables, and financial calculations.
 
 
 
