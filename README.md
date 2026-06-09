@@ -5,4 +5,4 @@ Qn.1 "Hello world" program in c++.(https://github.com/2narl/cpp_program_2ndsem/b
 
 Qn.2 Using "New" keyword program in c++.(https://github.com/2narl/cpp_program_2ndsem/blob/dafc4828f2ae177d666bd874b811f546956b5bac/My%20codes/newkeywordex.cpp)
 
-Qn.3 Create an object.(https://github.com/2narl/cpp_program_2ndsem/blob/4fc1a72096d76c99e2f47154a555fe7d7d179a3e/My%20codes/normalobject.cpp)
+Qn.3 Create an object in c++.(https://github.com/2narl/cpp_program_2ndsem/blob/4fc1a72096d76c99e2f47154a555fe7d7d179a3e/My%20codes/normalobject.cpp)
