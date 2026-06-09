@@ -90,3 +90,6 @@ public:
 | Data Access | Data can be hidden using access specifiers | Data is generally global and accessible |
 | Example: | C++, Python | C |
 
+
+Qn.2. What is the objective or use of "New" Keyword in oop.
+Ans: In c++
