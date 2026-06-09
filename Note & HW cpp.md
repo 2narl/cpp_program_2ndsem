@@ -92,4 +92,5 @@ public:
 
 
 Qn.2. What is the objective or use of "New" Keyword in oop.
+
 Ans: In c++
