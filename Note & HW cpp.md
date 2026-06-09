@@ -227,7 +227,11 @@ Uses of Scope Resolution Operator:
 
 Manipulators are special functions used to format input and output streams in C++. They make the output more readable and organized.
 
-Manipulators are defined in the **<iomanip>** header file.
+Manipulators are defined in the given header file.
+Syntax:
+```
+ <iomanip>
+```
 
 Common Manipulators in C++
 1. setw():
