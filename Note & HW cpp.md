@@ -319,18 +319,139 @@ Advantages of Manipulators:
 
 4.Useful in reports, tables, and financial calculations.
 
+**Chapter.3**
 
+**Qn.1 What are inline function? Write a C++ program demonstrating function overloading and default arguments.**
 
+Ans-**Inline Function in C++:**
 
+An inline function is a function whose code is expanded at the point where it is called, instead of making a normal function call. It is declared using the inline keyword.
 
+Syntax:
+```cpp
+inline return_type function_name(parameters)
+{
+    // function body
+}
+```
+Example:
+```cpp
+#include <iostream>
+using namespace std;
 
+inline int square(int x)
+{
+    return x * x;
+}
 
+int main()
+{
+    cout << square(5);
+    return 0;
+}
+```
 
+Advantages:
 
+1.Reduces function call overhead.
 
+2.Improves execution speed for small functions.
 
+3.Makes code more efficient.
 
+**Function Overloading in C++**
 
+Function overloading is a feature in which multiple functions can have the same name but different parameter lists.
+
+Example:Program Demonstrating Function Overloading.
+```cpp
+#include <iostream>
+using namespace std;
+
+class Demo {
+public:
+    int add(int a, int b) {
+        return a + b;
+    }
+
+    int add(int a, int b, int c) {
+        return a + b + c;
+    }
+};
+
+int main() {
+    Demo d;
+
+    cout << "Sum of two numbers = " << d.add(10, 20) << endl;
+    cout << "Sum of three numbers = " << d.add(10, 20, 30) << endl;
+
+    return 0;
+}
+```
+Output:
+```
+Sum of two numbers = 30
+Sum of three numbers = 60
+```
+**Default Arguments in C++**
+
+Default arguments are values assigned to function parameters that are automatically used when no argument is provided during the function call.
+
+Example:Program Demonstrating Default Arguments.
+```cpp
+#include <iostream>
+using namespace std;
+
+int add(int a, int b = 10)
+{
+    return a + b;
+}
+
+int main()
+{
+    cout << "add(5) = " << add(5) << endl;
+    cout << "add(5, 20) = " << add(5, 20) << endl;
+
+    return 0;
+}
+```
+Output:
+```
+add(5) = 15
+add(5, 20) = 25
+```
+Example: Combined Program (Function Overloading and Default Arguments):
+```cpp
+#include <iostream>
+using namespace std;
+
+class Test {
+public:
+    int sum(int a, int b = 10) {
+        return a + b;
+    }
+
+    int sum(int a, int b, int c) {
+        return a + b + c;
+    }
+};
+
+int main() {
+    Test t;
+
+    cout << "sum(5) = " << t.sum(5) << endl;
+    cout << "sum(5, 15) = " << t.sum(5, 15) << endl;
+    cout << "sum(5, 10, 15) = " << t.sum(5, 10, 15) << endl;
+
+    return 0;
+}
+```
+Output:
+```
+sum(5) = 15
+sum(5, 15) = 20
+sum(5, 10, 15) = 30
+```
 
 
 
