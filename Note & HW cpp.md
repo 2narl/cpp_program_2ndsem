@@ -1,6 +1,6 @@
 **Object Oriented Programming in C++ (BIT154CO)**
 
-Chap.1:
+Chapter.1:
 
 Q.n.1. What is OOP? Explain any four features with examples. Differntiate OOP and POP.
 
@@ -94,6 +94,7 @@ public:
 | Data Access | Data can be hidden using access specifiers | Data is generally global and accessible |
 | Example: | C++, Python | C |
 
+Chapter.2:
 
 Qn.2. What is the objective or use of "New" Keyword in oop.
 
