@@ -252,7 +252,7 @@ Fills empty spaces with a specified character.
 
 Syntax:
 ```cpp
-setprecision(n)
+setfill(character)
 ```
 Example:
 ```cpp
@@ -268,7 +268,7 @@ Sets the number of digits after the decimal point.
 
 Syntax:
 ```cpp
-setfill(character)
+setprecision(n)
 ```
 Example:
 ```cpp
