@@ -97,4 +97,4 @@ public:
 
 Qn.2. What is the objective or use of "New" Keyword in oop.
 
-Ans: In c++
+Ans: In c++, The new keyword is used to dynamically allocate memory to variables or objects during program execution. The memory is allocated from the heap memory, and  new returns the address of the allocated memory.
