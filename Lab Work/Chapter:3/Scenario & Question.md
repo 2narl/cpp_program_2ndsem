@@ -1,4 +1,4 @@
-**Scenario 1:Smart Calculator**
+**Scenario 1: Smart Calculator**
 
 Problem Statement
 
