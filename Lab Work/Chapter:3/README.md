@@ -1,53 +1,53 @@
-> ### 🧮 SCENARIO 1 : Smart Calculator
-> ### Problem Statement.
-> _Develop a calculator program that can perform addition on different types of inputs._
->
-> ---
->
-> #### Requirements:
-> _Create overloaded functions named add() for:_
-> - `Two integers.`
-> - `Two floating-point numbers.`
-> - `Three integers.`
->   
->   Create an inline function square() that returns the square of a number.
->
-> #### Concepts needed to implement
-> Function Overloading
-> Inline Function
-> Basic Arithmetic Operations
-> 
+ ## SCENARIO 1 : Smart Calculator
+ ---
+ 
+ ### Problem Statement.
+ _Develop a calculator program that can perform addition on different types of inputs._
 
+ ---
 
+ #### Requirements:
+ _Create overloaded functions named add() for:_
+ - `Two integers.`
+ - `Two floating-point numbers.`
+ - `Three integers.`
+   
+   Create an inline function square() that returns the square of a number.
 
+ #### Concepts needed to implement
+ - Function Overloading
+ 
+ - Inline Function
+ 
+ - Basic Arithmetic Operations
+ 
+ ---
 
-**Scenario 2: Employee Salary Management**
+# Scenario 2: Employee Salary Management
 
-Problem Statement
+---
 
-A company wants a salary calculation system for different categories of employees.
+##  Problem Statement
+A company wants a salary calculation system for different categories of employees. 
 
-Requirements
+---
 
-Overload a function calculateSalary() for:
+##  Requirements
+* **Overload a function `calculateSalary()` for:**
+  1. Full-time employee (basic salary)
+  2. Employee with bonus
+  3. Employee with bonus and overtime
+* **Create an inline function `taxDeduction()`** that calculates a 10% tax.
+* **Display gross salary and net salary.**
 
-Full-time employee (basic salary)
+---
 
-Employee with bonus
+## Concepts Implemented
+* **Function Overloading with different parameter lists:**
+* **Inline Functions:**
+* **Real-world business application:** 
 
-Employee with bonus and overtime
-
-Create an inline function taxDeduction() that calculates 10% tax.
-
-Display gross salary and net salary.
-
-Concepts needed to implement
-
-Function Overloading with different parameter lists
-
-Inline Functions
-
-Real-world business application
+---
 
 
 **Scenario 3: Student Result Processing**
