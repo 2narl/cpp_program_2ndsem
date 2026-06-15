@@ -35,3 +35,8 @@ Qn.7 Write a C++ program to demonstrate the concept of an Inline Function.
 <a href="https://github.com/2narl/cpp_program_2ndsem/blob/b01b60cc133736b5bf65b60374895770135d0cb5/My%20codes/inlinefunction.cpp">
   <button>Click to View</button>
 </a>
+
+Qn.7 Write a C++ program to demonstrate the concept of a Class and Object.
+<a href="">
+  <button>Click to View</button>
+</a>
