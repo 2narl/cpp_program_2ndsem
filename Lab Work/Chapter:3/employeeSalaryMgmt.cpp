@@ -15,7 +15,7 @@ double calculateSalary(double basicSalary, double bonus) {
 
 // Overload function for Employee with bonus and overtime
 double calculateSalary(double basicSalary, double bonus, double overtimeHours, double hourlyRate) {
-    double overtimePay = overtimeHours * (hourlyRate * 1.5); // Overtime at 1.5x rate
+    double overtimePay = overtimeHours * hourlyRate; 
     return basicSalary + bonus + overtimePay;
 }
 
