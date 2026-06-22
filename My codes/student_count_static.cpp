@@ -35,6 +35,7 @@ int main()
     s1.display();
     s2.display();
     s3.display();
+    s4.display();
 
     cout << "\nTotal Students Created: " << Student::count << endl;
 
