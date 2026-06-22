@@ -9,7 +9,7 @@ private:
 public:
     static int count; // Static data member
 
-    Student(int r = 0)
+    Student(int r )
     {
         rollNo = r;
         count++; // Increment count whenever an object is created
