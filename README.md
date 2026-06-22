@@ -42,6 +42,6 @@ Qn.8 Write a C++ program to demonstrate the concept of a Class and Object.
 </a>
 
 Qn.9 A program that outputs the total number of students (objects) recorded using a static data member.
-<a href="">
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/8ff0b68d65979bc6e6afd549808dd360e11e9c7b/My%20codes/student_count_static.cpp">
   <button>Click to View</button>
 </a>
