@@ -47,7 +47,12 @@ Qn.9 A program that outputs the total number of students (objects) recorded usin
 <button>Click to View</button>
 </a>
 
-Qn.10 A program that outputs the total number of students (objects) recorded using a static data member.
+Qn.10 Write a C++ program to demonstrate the use of static data members and static member functions in a class.
 <a href="https://github.com/2narl/cpp_program_2ndsem/blob/e00685ad9e196a7aa617a52be67fe8ac0efd6ae9/My%20codes/StaticData_function.cpp">
+<button>Click to View</button>
+</a>
+
+Qn.11 WAP to demonstrate the use of 'this' pointer in C++.
+<a href="">
 <button>Click to View</button>
 </a>
