@@ -1,3 +1,4 @@
+// Write a C++ program to demonstrate the use of static data members and static member functions in a class.
 #include <iostream>
 using namespace std;
 
@@ -9,7 +10,7 @@ private:
 public:
     static int count; // Static data member
 
-    Student(int r )
+    Student(int r)
     {
         rollNo = r;
         count++; // Increment count whenever an object is created

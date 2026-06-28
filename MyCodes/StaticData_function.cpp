@@ -1,3 +1,4 @@
+// A program that outputs the total number of students (objects) recorded using a static data member.
 #include <iostream>
 using namespace std;
 
