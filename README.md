@@ -56,3 +56,8 @@ Qn.11 WAP to demonstrate the use of 'this' pointer in C++.
 <a href="https://github.com/2narl/cpp_program_2ndsem/blob/227446a89d99dad1af88c4c38a67edb04f9b6b75/My%20codes/thisPointer.cpp">
 <button>Click to View</button>
 </a>
+
+Qn.12 WAP to demonstrate the use of 'this' pointer in C++.
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/70559c1a326ad1f29df02b4c8f1d95fd41575abc/My%20codes/thispointerconst.cpp">
+<button>Click to View</button>
+</a>
