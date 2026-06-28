@@ -13,7 +13,7 @@ Qn.2 function declaration in c++.
 </a>
 
 Qn.3 Using "New" keyword or dynamic memory allocation program in c++.
-<a href="https://github.com/2narl/cpp_program_2ndsem/blob/dafc4828f2ae177d666bd874b811f546956b5bac/My%20codes/newkeywordex.cpp">
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/40af90b7ae73a28ad56b20954750e098fca12a55/MyCodes/newkeywordex.cpp">
 <button>Click to View</button>
 </a>
 
