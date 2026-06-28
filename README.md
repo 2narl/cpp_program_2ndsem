@@ -52,7 +52,7 @@ Qn.10 Write a C++ program to demonstrate the use of static data members and stat
 <button>Click to View</button>
 </a>
 
-Qn.11 WAP to demonstrate the use of 'this' pointer in C++.
+Qn.11 Write a Program (WAP) to demonstrate the concept of Method Chaining using the 'this' pointer in C++.
 <a href="https://github.com/2narl/cpp_program_2ndsem/blob/227446a89d99dad1af88c4c38a67edb04f9b6b75/My%20codes/thisPointer.cpp">
 <button>Click to View</button>
 </a>
