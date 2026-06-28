@@ -48,12 +48,12 @@ Qn.9 A program that outputs the total number of students (objects) recorded usin
 </a>
 
 Qn.10 Write a C++ program to demonstrate the use of static data members and static member functions in a class.
-<a href="https://github.com/2narl/cpp_program_2ndsem/blob/e00685ad9e196a7aa617a52be67fe8ac0efd6ae9/My%20codes/StaticData_function.cpp">
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/71a86a446c0efebe45c5f7aa1e1bfbeb02804deb/MyCodes/student_count_static.cpp">
 <button>Click to View</button>
 </a>
 
 Qn.11 WAP to demonstrate the use of 'this' pointer in C++.
-<a href="https://github.com/2narl/cpp_program_2ndsem/blob/227446a89d99dad1af88c4c38a67edb04f9b6b75/My%20codes/thisPointer.cpp">
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/71a86a446c0efebe45c5f7aa1e1bfbeb02804deb/MyCodes/thisPointer.cpp">
 <button>Click to View</button>
 </a>
 
