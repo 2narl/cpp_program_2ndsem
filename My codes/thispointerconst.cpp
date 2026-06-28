@@ -4,9 +4,15 @@ using namespace std;
 class Calculator
 {
 private:
-    int value = 0;
+    int value;
 
 public:
+    // Constructor to initialize the value
+    Calculator()
+    {
+        value = 0;
+    }
+
     Calculator &add(int num)
     {
         value += num;
