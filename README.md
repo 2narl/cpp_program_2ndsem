@@ -72,7 +72,7 @@ Qn.14 Write a C++ program to demonstrate parameterized constructor in single inh
 <button>Click to View</button>
 </a>
 
-Qn.15
-<a href="">
+Qn.15 Write a C++ program to demonstrate the use of an array of objects for storing and displaying student information.
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/6b6150571c584de074c6dd9df2c0a9ebbe40ff75/MyCodes/ArrayofObject.cpp">
 <button>Click to View</button>
 </a>
