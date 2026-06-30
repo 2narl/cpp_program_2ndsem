@@ -1,3 +1,5 @@
+/* Write a C++ program to demonstrate the use of the protected access specifier
+ and single inheritance by accessing a protected data member in a derived class.*/
 #include <iostream>
 using namespace std;
 
