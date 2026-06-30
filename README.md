@@ -67,7 +67,12 @@ Qn.13 Write a C++ program to demonstrate the use of the protected access specifi
 <button>Click to View</button>
 </a>
 
-Qn.14
+Qn.14 Write a C++ program to demonstrate parameterized constructor in single inheritance and modification of protected data members.
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/17e89efb40fa405eddd534849efb1bf52034f05c/MyCodes/ExAccessSpecified_Protected.cpp">
+<button>Click to View</button>
+</a>
+
+Qn.15
 <a href="">
 <button>Click to View</button>
 </a>
