@@ -61,3 +61,8 @@ Qn.12 Write a Program (WAP) to demonstrate the concept of Method Chaining using 
 <a href="https://github.com/2narl/cpp_program_2ndsem/blob/acacdfa24645c1d92e014b301c41a14c2b008808/MyCodes/thispointerconst.cpp">
 <button>Click to View</button>
 </a>
+
+Qn.12 Write a C++ program to demonstrate the use of the protected access specifier and single inheritance by accessing a protected data member in a derived class.
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/5f429efa8848cd2f812b4b1121dc62e80b2fd570/MyCodes/protected_accessSpecifier.cpp">
+<button>Click to View</button>
+</a>
