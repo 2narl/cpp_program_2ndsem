@@ -1,3 +1,4 @@
+// Write a C++ program to demonstrate the use of a friend function to calculate the area of a rectangle.
 #include <iostream>
 using namespace std;
 
