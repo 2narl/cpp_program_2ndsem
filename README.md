@@ -92,7 +92,7 @@ Qn.18 Write a C++ program to demonstrate the concept of a Friend Class.
 <button>Click to View</button>
 </a>
 
-Qn.19
-<a href="">
+Qn.19 Write a C++ program to demonstrate the use of a friend function to calculate the area of a rectangle.
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/4865e98967779cc77389ee91eb87217991e7579e/MyCodes/friendfunction.cpp">
 <button>Click to View</button>
 </a>
