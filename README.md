@@ -82,8 +82,8 @@ Qn.16 Write a menu-driven C++ program using the STL vector<string> to implement 
 <button>Click to View</button>
 </a>
 
-Qn.17 
-<a href="">
+Qn.17 Write a C++ program to demonstrate the concept of a friend class in a Bank Management System for accessing and displaying private data members.
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/e874e247f20fbaf7480959254ffa9badf47af72e/MyCodes/friendClass_bankAccount.cpp">
 <button>Click to View</button>
 </a>
 
