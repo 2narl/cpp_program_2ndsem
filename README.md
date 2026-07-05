@@ -87,8 +87,8 @@ Qn.17 Write a C++ program to demonstrate the concept of a friend class in a Bank
 <button>Click to View</button>
 </a>
 
-Qn.18 
-<a href="">
+Qn.18 Write a C++ program to demonstrate the concept of a Friend Class.
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/533ba679d32b37ef830e39d938c54176920dca0f/MyCodes/friendClass.cpp">
 <button>Click to View</button>
 </a>
 
