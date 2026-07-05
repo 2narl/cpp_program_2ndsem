@@ -81,3 +81,18 @@ Qn.16 Write a menu-driven C++ program using the STL vector<string> to implement 
 <a href="https://github.com/2narl/cpp_program_2ndsem/blob/d9ddc9f0db24230f61d8727e75bb62ac640aa5a1/MyCodes/task_todolist.cpp">
 <button>Click to View</button>
 </a>
+
+Qn.17 
+<a href="">
+<button>Click to View</button>
+</a>
+
+Qn.18 
+<a href="">
+<button>Click to View</button>
+</a>
+
+Qn.19
+<a href="">
+<button>Click to View</button>
+</a>
