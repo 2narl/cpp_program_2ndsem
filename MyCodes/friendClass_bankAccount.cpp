@@ -1,3 +1,5 @@
+/* Write a C++ program to demonstrate the concept of a friend class in a Bank
+Management System for accessing and displaying private data members.*/
 #include <iostream>
 #include <string>
 using namespace std;

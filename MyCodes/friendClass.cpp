@@ -1,3 +1,4 @@
+// Write a C++ program to demonstrate the concept of a Friend Class.
 #include <iostream>
 using namespace std;
 
