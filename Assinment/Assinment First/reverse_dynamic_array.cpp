@@ -42,7 +42,7 @@ int main()
     // call the function to reverse the array
     reverseArray(arr, n);
 
-        cout << endl;
+    cout << endl;
     // free the dynamically allocated memory
     delete[] arr;
 }
