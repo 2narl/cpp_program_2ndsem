@@ -97,7 +97,17 @@ Qn.19 Write a C++ program to demonstrate the use of a friend function to calcula
 <button>Click to View</button>
 </a>
 
-Qn.20
+Qn.20 Write a C++ program to demonstrate the use of a copy constructor.
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/935aa54f495bef11a4aa430b09a7dece2cd93e83/MyCodes/Copy_constructor.cpp">
+<button>Click to View</button>
+</a>
+
+Qn.21
+<a href="">
+<button>Click to View</button>
+</a>
+
+Qn.22
 <a href="">
 <button>Click to View</button>
 </a>
