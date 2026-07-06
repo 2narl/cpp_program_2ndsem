@@ -81,3 +81,23 @@ Qn.16 Write a menu-driven C++ program using the STL vector<string> to implement 
 <a href="https://github.com/2narl/cpp_program_2ndsem/blob/d9ddc9f0db24230f61d8727e75bb62ac640aa5a1/MyCodes/task_todolist.cpp">
 <button>Click to View</button>
 </a>
+
+Qn.17 Write a C++ program to demonstrate the concept of a friend class in a Bank Management System for accessing and displaying private data members.
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/e874e247f20fbaf7480959254ffa9badf47af72e/MyCodes/friendClass_bankAccount.cpp">
+<button>Click to View</button>
+</a>
+
+Qn.18 Write a C++ program to demonstrate the concept of a Friend Class.
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/533ba679d32b37ef830e39d938c54176920dca0f/MyCodes/friendClass.cpp">
+<button>Click to View</button>
+</a>
+
+Qn.19 Write a C++ program to demonstrate the use of a friend function to calculate the area of a rectangle.
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/4865e98967779cc77389ee91eb87217991e7579e/MyCodes/friendfunction.cpp">
+<button>Click to View</button>
+</a>
+
+Qn.20
+<a href="">
+<button>Click to View</button>
+</a>
