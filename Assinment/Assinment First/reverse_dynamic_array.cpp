@@ -8,10 +8,12 @@ using namespace std;
 // define a fuction to reverse the array
 void reverseArray(int *arr, int n)
 {
-    cout << "Reversed Array:" << endl;
-    for (int i = n - 1; i >= 0; i--)
+    int temp;
+    for (int i = 0; i < n / 2; i++)
     {
-        cout << arr[i] << " ";
+        temp = arr[i];
+        arr[i] = arr[n - i - 1];
+        arr[n - i - 1] = temp;
     }
     cout << endl;
 }
@@ -25,14 +27,15 @@ int main()
     // Dinamically allocating memory
     int *arr = new int[n];
 
-    cout << "Enter the Elements of Array:" << endl;
+    cout << "Enter the Elements of Array:";
     for (int i = 0; i < n; i++)
     {
         cin >> arr[i];
     }
 
     // print orginal array
-    cout << "Original Array:" << endl;
+    cout << endl
+         << "Original Array:" << endl;
     for (int i = 0; i < n; i++)
     {
         cout << arr[i] << " ";
@@ -42,6 +45,12 @@ int main()
     // call the function to reverse the array
     reverseArray(arr, n);
 
+    // print the reversed array
+    cout << "Reversed Array:" << endl;
+    for (int i = 0; i < n; i++)
+    {
+        cout << arr[i] << " ";
+    }
     cout << endl;
     // free the dynamically allocated memory
     delete[] arr;
