@@ -1,8 +1,7 @@
 # **Lab Work of Assingment First**
 
 **Unit 2: C++ Programming Concepts**
-
----
+--
 
 Lab 1 (Arrays & Pointers): Write a program that takes n integers from the user and stores them in a dynamically allocated array. Then, use a function that accepts a
 pointer to the array and its size to reverse the order of the elements in the array. Finally, print the reversed array.
@@ -28,4 +27,5 @@ a constructor to initialize it and a const member function getColor() that retur
 
 ---
 
-
+**Unit 3: Functions Used in C++**
+--
