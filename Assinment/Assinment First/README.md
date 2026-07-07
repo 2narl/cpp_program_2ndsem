@@ -12,6 +12,14 @@ pointer to the array and its size to reverse the order of the elements in the ar
 
 ---
 
+Lab 2 (new & delete): Write a program that defines a Student struct with name and rollNumber. In main(), dynamically allocate an array of Student objects
+based on a user-provided number. Prompt the user to enter the data for each student and then display it. Ensure proper deallocation of memory.
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/f2a1a166edef3a8e9f84365192a84898cf1f95db/Assinment/Assinment%20First/lab2_Student_dynamic_arr.cpp">
+<button>Click to View</button>
+</a>
+
+---
+
 Lab 3 (const & enum): Define an enum class called Color with values RED, GREEN, and BLUE. Write a class Shape that has a private Color member. Provide
 a constructor to initialize it and a const member function getColor() that returns the color. In main(), create a Shape object and display its color.
 <a href="https://github.com/2narl/cpp_program_2ndsem/blob/297ea89ed1f24e42f18b9a10b01dcc135a882bbb/Assinment/Assinment%20First/Lab3_ShapeColor.cpp">
@@ -20,6 +28,4 @@ a constructor to initialize it and a const member function getColor() that retur
 
 ---
 
-<a href="">
-<button>Click to View</button>
-</a>
+
