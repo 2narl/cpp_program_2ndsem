@@ -36,4 +36,6 @@ a. Two integers.
 b. Three integers. 
 c. A double and an integer (where the integer is a multiplier). 
 Add default arguments to one of the functions (e.g., for the three-integer version, set the third integer to 1 by default). Demonstrate all functions in main().
-
+<a href="">
+<button>Click to View</button>
+</a>
