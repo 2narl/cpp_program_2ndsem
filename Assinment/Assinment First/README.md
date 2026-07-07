@@ -30,3 +30,10 @@ a constructor to initialize it and a const member function getColor() that retur
 
 **Unit 3: Functions Used in C++**
 --
+
+Lab 4 (Function Overloading & Default Arguments): Create a class MathOperations. Overload a function multiply to handle: 
+a. Two integers. 
+b. Three integers. 
+c. A double and an integer (where the integer is a multiplier). 
+Add default arguments to one of the functions (e.g., for the three-integer version, set the third integer to 1 by default). Demonstrate all functions in main().
+
