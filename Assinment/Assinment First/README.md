@@ -40,7 +40,9 @@ Add default arguments to one of the functions (e.g., for the three-integer versi
 <button>Click to View</button>
 </a>
 
-
+Lab 5 (Inline Function): Write a program that uses an inline function isEven(int) to check if a number is even. In main(), ask the user for a number and use the inline
+function to print whether it is even or odd. Also, create a non-inline function that performs the same task (but is not inlined). Discuss the potential performance
+difference by comparing a function call in a loop (e.g., 1 million iterations) with a macro and the inline function.*
 <a href="https://github.com/2narl/cpp_program_2ndsem/blob/2b61dd6f5b0816e7b95e0bb3bd8e11a067e3bf52/Assinment/Assinment%20First/Lab5_IsEven_Inline.cpp">
 <button>Click to View</button>
 </a>
