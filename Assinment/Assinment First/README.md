@@ -39,3 +39,8 @@ Add default arguments to one of the functions (e.g., for the three-integer versi
 <a href="https://github.com/2narl/cpp_program_2ndsem/blob/a7b69a2d9e146ac18272cc69a8b9407b42b308e1/Assinment/Assinment%20First/Lab4_MultiplyOverloading.cpp">
 <button>Click to View</button>
 </a>
+
+
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/2b61dd6f5b0816e7b95e0bb3bd8e11a067e3bf52/Assinment/Assinment%20First/Lab5_IsEven_Inline.cpp">
+<button>Click to View</button>
+</a>
