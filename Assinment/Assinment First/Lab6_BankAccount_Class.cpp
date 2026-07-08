@@ -19,6 +19,7 @@ private:
     double balance;
 
 public:
+    // Constructor to initialize account details
     BankAccount(string accNum, string name, double initialBalance)
     {
         accountNumber = accNum;
@@ -26,12 +27,13 @@ public:
         balance = initialBalance;
     }
 
+    // Member function to deposit amount into the account
     void deposit(double amount)
     {
         if (amount > 0)
         {
             balance += amount;
-            cout << "Deposited: Rs." << amount << endl;
+            cout << "Deposited: Rs." << amount << " into A/C " << accountNumber << endl;
         }
         else
         {
@@ -39,6 +41,7 @@ public:
         }
     }
 
+    // Member function to withdraw amount from the account
     void withdraw(double amount)
     {
         if (amount > 0)
@@ -46,7 +49,7 @@ public:
             if (balance >= amount)
             {
                 balance -= amount;
-                cout << "Withdrew: Rs." << amount << endl;
+                cout << "Withdrew: Rs." << amount << " from A/C " << accountNumber << endl;
             }
             else
             {
@@ -58,22 +61,39 @@ public:
             cout << "Withdrawal amount must be positive." << endl;
         }
     }
+
+    // Member function to display account details
+    void display()
+    {
+        cout << "Account Number: " << accountNumber << endl;
+        cout << "Holder Name: " << holderName << endl;
+        cout << "Balance: Rs." << balance << endl;
+    }
 };
 
 int main()
 {
     // Create a BankAccount object
-    BankAccount account("123456789", "Narayan", 1000.0);
+    BankAccount account("01750000569835", "Narayan Aryal", 1000.0);
+
+    BankAccount account2("01750000425639", "Pawan Gyawali", 500.0);
 
     // Perform transactions
     account.deposit(500.0);  // Deposit 500
     account.deposit(-100.0); // Attempt to deposit a negative amount
 
-    account.deposit(200.0);  // Deposit 200
-    account.withdraw(300.0); // Withdraw 300
+    cout << endl;
+    account2.deposit(200.0);  // Deposit 200 in second account
+    account2.withdraw(300.0); // Withdraw 300 from second account
 
-    account.withdraw(1500.0); // Attempt to withdraw more than balance
+    cout << endl;
+    account.withdraw(1400.0); // Attempt to withdraw more than balance
     account.withdraw(-50.0);  // Attempt to withdraw a negative amount
+
+    cout << endl;
+    account.display(); // Display account details
+    cout << endl;
+    account2.display(); // Display second account details
 
     return 0;
 }
