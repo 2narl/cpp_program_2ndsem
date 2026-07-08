@@ -53,9 +53,18 @@ difference by comparing a function call in a loop (e.g., 1 million iterations) w
 
 **Unit 4: Classes and Objects**
 --
-
-<a href="">
+Lab 6 (Class & Access Specifiers): Design a class BankAccount with private data members: accountNumber, holderName, balance. Provide public member  functions:
+a. deposit(double amount).
+b. withdraw(double amount) (should not allow withdrawal if balance is
+insufficient).
+c. display() to print account details.
+Write a program to create a BankAccount object, perform a few transactions, and display the final balance.
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/6d9c9ba3fc85f1a59a306e6e384f3bfeac310301/Assinment/Assinment%20First/Lab6_BankAccount_Class.cpp">
 <button>Click to View</button>
 </a>
 
 ---
+
+<a href="">
+<button>Click to View</button>
+</a>
