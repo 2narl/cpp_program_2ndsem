@@ -36,4 +36,6 @@ a. Two integers.
 b. Three integers. 
 c. A double and an integer (where the integer is a multiplier). 
 Add default arguments to one of the functions (e.g., for the three-integer version, set the third integer to 1 by default). Demonstrate all functions in main().
-
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/a7b69a2d9e146ac18272cc69a8b9407b42b308e1/Assinment/Assinment%20First/Lab4_MultiplyOverloading.cpp">
+<button>Click to View</button>
+</a>
