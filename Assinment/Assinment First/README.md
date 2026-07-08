@@ -64,7 +64,17 @@ Write a program to create a BankAccount object, perform a few transactions, and 
 </a>
 
 ---
+Lab 7 (Nesting of Member Functions): Create a class Temperature with private data members for celsius. Implement a public member function display() that, in
+turn, calls a private member function toFahrenheit() to convert and display the temperature in Fahrenheit. The display() function should show both Celsius and
+Fahrenheit.
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/9cdd8594e157c346da31b4d45b3a6073a0eb9b60/Assinment/Assinment%20First/Lab7_Temperature_NestingFunctions.cpp">
+<button>Click to View</button>
+</a>
+
+---
 
 <a href="">
 <button>Click to View</button>
 </a>
+
+---
