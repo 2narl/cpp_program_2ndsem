@@ -81,3 +81,35 @@ and display the employee with the highest salary.
 </a>
 
 ---
+
+Lab 9 (Passing Objects by Reference): Define a class Complex with integer data
+members real and imag. Write a global function addComplex(const Complex
+&c1, const Complex &c2) that takes two Complex objects by const reference
+and returns a Complex object. In main(), create two Complex numbers, add
+them, and display the result.*/
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/e52d2a057e4762567bb715ae333f2d6599699d10/Assinment/Assinment%20First/Lab_9_Passing_Objects_By_Reference.cpp">
+<button>Click to View</button>
+</a>
+
+---
+
+Lab 10 (Returning Objects): For the Complex class created above, write a
+member function add(const Complex &c) that returns a new Complex object
+(the sum). Demonstrate chaining of operations, e.g., c1.add(c2).add(c3).
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/e52d2a057e4762567bb715ae333f2d6599699d10/Assinment/Assinment%20First/Lab_10_Returning_Objects.cpp">
+<button>Click to View</button>
+</a>
+
+---
+
+Lab 11 (Static Data Member & Function): Write a class Product with name and
+serialNumber. Use a static data member counter to automatically generate a
+unique serial number for each Product object created. Write a static member
+function getTotalProducts() that returns the total number of Product objects
+created. Test your class in main() by creating multiple objects and displaying
+their serial numbers and the total count.
+<a href="">
+<button>Click to View</button>
+</a>
+
+---
