@@ -240,8 +240,12 @@ list. Write a program that creates a Point object and displays its coordinates.
 
 ---
 
-
-<a href="">
+Lab 23 (Constructor & Destructor Ordering): Create a base class Base and a
+derived class Derived. Each class should have a constructor that prints a
+message and a destructor that prints a message. In main(), create an object of
+Derived and observe the order of constructor and destructor calls. Explain the
+output.
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/e6fb0a89dab64de5fca19ee58efd06aaf34b42cf/Assinment/Assinment%20First/lab23_constructor_destructor_order.cpp">
 <button>Click to View</button>
 </a>
 
