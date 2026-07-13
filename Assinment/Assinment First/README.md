@@ -183,6 +183,58 @@ one works and the other doesn't.
 
 ---
 
+**Unit 5: Constructor & Destructor**
+--
+
+Lab 18 (Default & Parameterized Constructors): Write a class Circle with a 
+private data member radius. Provide a default constructor (sets radius to 0), a 
+parameterized constructor (sets radius to a given value), and a member function 
+area() to calculate the area. Create objects using both constructors and display 
+their areas.
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/71989fbda2001628e702c31ee032c80119a50a70/Assinment/Assinment%20First/lab18_circle_constructors.cpp">
+<button>Click to View</button>
+</a>
+
+---
+
+Lab 19 (Copy Constructor): Create a class Array that dynamically allocates an 
+integer array. Implement a default constructor, parameterized constructor 
+(takes size), copy constructor (deep copy), and destructor. In main(), 
+demonstrate the creation of one array, copying it to another array, and modifying 
+the first array to prove that the copy is independent. 
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/71989fbda2001628e702c31ee032c80119a50a70/Assinment/Assinment%20First/lab19_array_copy_constructor.cpp">
+<button>Click to View</button>
+</a>
+
+---
+
+Lab 20 (Overloaded Constructors): Define a class Time with data members for 
+hours, minutes, and seconds. Provide three constructors: 
+a. Default: sets to 00:00:00. 
+b. Parameterized: takes hours, minutes, and seconds. 
+c. Single integer: takes total seconds and converts it to hours, minutes, 
+seconds. Write a display() function to show the time in HH:MM:SS format. 
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/71989fbda2001628e702c31ee032c80119a50a70/Assinment/Assinment%20First/lab20_time_overloaded_constructors.cpp">
+<button>Click to View</button>
+</a>
+
+---
+
+
+<a href="">
+<button>Click to View</button>
+</a>
+
+---
+
+
+<a href="">
+<button>Click to View</button>
+</a>
+
+---
+
+
 <a href="">
 <button>Click to View</button>
 </a>
