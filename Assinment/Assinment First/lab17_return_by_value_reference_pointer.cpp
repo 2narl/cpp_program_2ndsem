@@ -61,7 +61,7 @@ int main()
     c.display();
 
     // Chaining using reference
-    c.incrementByRef();
+    c.incrementByRef().incrementByRef();
     cout << "After incrementByRef().incrementByRef(): ";
     c.display();
 
