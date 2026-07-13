@@ -154,3 +154,21 @@ happens. (This is a lead-in to the next lab).
 </a>
 
 ---
+
+<a href="">
+<button>Click to View</button>
+</a>
+
+---
+
+<a href="">
+<button>Click to View</button>
+</a>
+
+---
+
+<a href="">
+<button>Click to View</button>
+</a>
+
+---
