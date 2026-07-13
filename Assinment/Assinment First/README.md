@@ -149,6 +149,40 @@ happens. (This is a lead-in to the next lab).
 
 ---
 
+Lab 15 (Copy Constructor & Deep Copy): Extend the previous MyString class.
+Add a proper copy constructor that performs a deep copy. Also, add a function
+append(const MyString &other) that concatenates another MyString object to
+the current one (remember to reallocate memory). Write a main() function to
+demonstrate these functionalities and the deep copy.
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/10cf0423d8d721db255e009205cd0cb974bc3eb8/Assinment/Assinment%20First/lab15_mystring_deep_copy.cpp">
+<button>Click to View</button>
+</a>
+
+---
+
+Lab 16 (Friend Function for Operator Overloading):
+   Create a Complex class. Declare a friend function
+   operator+(const Complex &c1, const Complex &c2)
+   to overload the + operator. In main(), demonstrate
+   that c1 + c2 works.
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/10cf0423d8d721db255e009205cd0cb974bc3eb8/Assinment/Assinment%20First/lab16_complex_friend_operator_overloading.cpp">
+<button>Click to View</button>
+</a>
+
+---
+
+Lab 17 (Returning Objects by Value vs Reference): Write a class Counter with an
+int value. Implement member functions increment() (returns by value),
+incrementByRef() (returns by reference), and incrementByPtr() (returns by
+pointer). In main(), demonstrate the difference in chaining:
+c.increment().increment() vs c.incrementByRef().incrementByRef(). Explain why
+one works and the other doesn't.
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/10cf0423d8d721db255e009205cd0cb974bc3eb8/Assinment/Assinment%20First/lab17_return_by_value_reference_pointer.cpp">
+<button>Click to View</button>
+</a>
+
+---
+
 <a href="">
 <button>Click to View</button>
 </a>
