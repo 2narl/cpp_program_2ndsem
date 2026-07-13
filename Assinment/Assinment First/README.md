@@ -262,8 +262,17 @@ demonstrate all constructors and the destructor's effect.
 
 ---
 
-
-<a href="">
+ Lab 25 (Singleton Pattern with Static Members): Implement a Logger class that
+logs messages to a file. The class should use the Singleton design pattern:
+a. Make the constructor private.
+b. Have a static data member instance (a pointer to the single Logger
+object).
+c. Have a static member function getInstance() that returns the single
+instance.
+d. Have a member function log(const string &message) to write to the file. In
+main(), get the logger instance from multiple parts (e.g., in different
+functions) and log messages. Verify that the same file handle is used.
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/5d24cb0e8f1ce3af12a084d9d0ad4461b32ba8bb/Assinment/Assinment%20First/lab25_singleton_logger.cpp">
 <button>Click to View</button>
 </a>
 
