@@ -251,7 +251,11 @@ output.
 
 ---
 
-
+Lab 24 (Complex Class with Constructors & Destructor): Design a Complex
+class that uses dynamic memory for its real and imag parts (use int*). Implement
+a default constructor, a parameterized constructor, a copy constructor, and a
+destructor. Write a function to display a complex number. In main(),
+demonstrate all constructors and the destructor's effect.
 <a href="">
 <button>Click to View</button>
 </a>
