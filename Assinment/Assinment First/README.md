@@ -220,6 +220,33 @@ seconds. Write a display() function to show the time in HH:MM:SS format.
 
 ---
 
+Lab 21 (Destructor - Resource Management): Write a class FileHandler that has
+a FILE* pointer. The constructor should open a file (provided as a string) in write
+mode, and the destructor should close the file. In main(), create an object of
+FileHandler and write a few lines to the file. Ensure the file is properly closed
+when the object goes out of scope.
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/c030a40a74fe30b6226b32c21af92f1e1351c302/Assinment/Assinment%20First/lab21_filehandler_destructor.cpp">
+<button>Click to View</button>
+</a>
+
+---
+
+Lab 22 (Constructor Initializer List): Write a class Point with const int x and const
+int y. Since these are const, they must be initialized in a constructor initializer
+list. Write a program that creates a Point object and displays its coordinates.
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/c030a40a74fe30b6226b32c21af92f1e1351c302/Assinment/Assinment%20First/lab22_constructor_initializer_list.cpp">
+<button>Click to View</button>
+</a>
+
+---
+
+
+<a href="">
+<button>Click to View</button>
+</a>
+
+---
+
 
 <a href="">
 <button>Click to View</button>
