@@ -113,3 +113,44 @@ their serial numbers and the total count.
 </a>
 
 ---
+
+Lab 12 (Friend Function): Create two classes Manager and Worker. Both have
+private data members for salary. Write a friend function compareSalary(const
+Manager &m, const Worker &w) that compares their salaries and prints who
+earns more (or if they are equal).
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/4b0683924438bef826277c4ecc5f30defe94ae61/Assinment/Assinment%20First/lab12_friend_function_compare_salary.cpp">
+<button>Click to View</button>
+</a>
+
+---
+
+Lab 13 (Friend Class): Design a class DataStorage with private data members
+(int secret). Create a friend class DataProcessor that can access and modify the
+secret value in DataStorage. Demonstrate this by creating objects of both
+classes and having DataProcessor manipulate the data.
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/4b0683924438bef826277c4ecc5f30defe94ae61/Assinment/Assinment%20First/lab13_friend_class_data_storage.cpp">
+<button>Click to View</button>
+</a>
+
+---
+
+Lab 14 (String Class - Basics): Create a class MyString that has a char* data
+member to hold a C-style string. Implement the following member functions:
+a. A constructor that takes a const char* and allocates memory.
+b. A destructor to free the memory.
+c. A member function display() to print the string.
+d. Do not implement the copy constructor or assignment operator yet. In
+main(), create a MyString object and pass it by value to a function. You
+should observe the program crash or double free. Explain why this
+happens. (This is a lead-in to the next lab).
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/4b0683924438bef826277c4ecc5f30defe94ae61/Assinment/Assinment%20First/lab14_mystring_basics.cpp">
+<button>Click to View</button>
+</a>
+
+---
+
+<a href="">
+<button>Click to View</button>
+</a>
+
+---
