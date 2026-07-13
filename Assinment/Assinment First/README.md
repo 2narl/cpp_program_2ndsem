@@ -279,8 +279,4 @@ functions) and log messages. Verify that the same file handle is used.
 ---
 
 
-<a href="">
-<button>Click to View</button>
-</a>
 
----
