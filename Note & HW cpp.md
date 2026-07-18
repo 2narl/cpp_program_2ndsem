@@ -641,3 +641,332 @@ Total Distance : 9 meter 20 centimeter
 
 ---
 
+# Qn. Explain All Types of Constructors in C++ with Programs. What is a Copy Constructor and When is it Invoked?
+
+## Introduction
+
+A **constructor** is a special member function of a class that is automatically called when an object is created. It is mainly used to initialize the data members of the class.
+
+### Characteristics of a Constructor
+- Constructor name is the same as the class name.
+- It has no return type (not even `void`).
+- It is called automatically when an object is created.
+- Constructors can be overloaded.
+
+---
+
+# Types of Constructors in C++
+
+## 1. Default Constructor
+
+A **default constructor** is a constructor that takes no arguments. It initializes objects with default values.
+
+### Program
+
+```cpp
+#include <iostream>
+using namespace std;
+
+class Student {
+private:
+    int id;
+
+public:
+    Student() {
+        id = 101;
+    }
+
+    void display() {
+        cout << "ID = " << id << endl;
+    }
+};
+
+int main() {
+    Student s;
+    s.display();
+
+    return 0;
+}
+```
+
+### Output
+
+```
+ID = 101
+```
+
+### Advantages
+- Automatically initializes objects.
+- Reduces uninitialized data.
+
+---
+
+# 2. Parameterized Constructor
+
+A **parameterized constructor** accepts arguments to initialize an object with user-defined values.
+
+### Program
+
+```cpp
+#include <iostream>
+using namespace std;
+
+class Student {
+private:
+    int id;
+
+public:
+    Student(int x) {
+        id = x;
+    }
+
+    void display() {
+        cout << "ID = " << id << endl;
+    }
+};
+
+int main() {
+    Student s(205);
+    s.display();
+
+    return 0;
+}
+```
+
+### Output
+
+```
+ID = 205
+```
+
+### Advantages
+- Initializes objects with different values.
+- Makes programs more flexible.
+
+---
+
+# 3. Copy Constructor
+
+A **copy constructor** creates a new object by copying the contents of an existing object.
+
+### Syntax
+
+```cpp
+ClassName(const ClassName &obj);
+```
+
+### Program
+
+```cpp
+#include <iostream>
+using namespace std;
+
+class Student {
+private:
+    int id;
+
+public:
+    Student(int x) {
+        id = x;
+    }
+
+    Student(const Student &s) {
+        id = s.id;
+    }
+
+    void display() {
+        cout << "ID = " << id << endl;
+    }
+};
+
+int main() {
+    Student s1(100);
+    Student s2 = s1;
+
+    s1.display();
+    s2.display();
+
+    return 0;
+}
+```
+
+### Output
+
+```
+ID = 100
+ID = 100
+```
+
+### Advantages
+- Creates duplicate objects.
+- Useful for deep copying dynamic memory.
+
+---
+
+# 4. Dynamic Constructor
+
+A **dynamic constructor** allocates memory dynamically using the `new` operator.
+
+**Program**
+
+```cpp
+#include <iostream>
+using namespace std;
+
+class Number {
+private:
+    int *ptr;
+
+public:
+    Number(int value) {
+        ptr = new int;
+        *ptr = value;
+    }
+
+    void display() {
+        cout << "Value = " << *ptr << endl;
+    }
+
+    ~Number() {
+        delete ptr;
+    }
+};
+
+int main() {
+    Number n(50);
+    n.display();
+
+    return 0;
+}
+```
+
+Output:
+
+```
+Value = 50
+```
+
+**Advantages**
+- Efficient memory management.
+- Useful for dynamic data structures.
+
+---
+
+**5. Constructor Overloading**
+
+Constructor overloading means defining multiple constructors with different parameter lists.
+
+**Program**
+
+```cpp
+#include <iostream>
+using namespace std;
+
+class Student {
+private:
+    int id;
+
+public:
+    Student() {
+        id = 0;
+    }
+
+    Student(int x) {
+        id = x;
+    }
+
+    void display() {
+        cout << "ID = " << id << endl;
+    }
+};
+
+int main() {
+    Student s1;
+    Student s2(200);
+
+    s1.display();
+    s2.display();
+
+    return 0;
+}
+```
+
+### Output
+
+```
+ID = 0
+ID = 200
+```
+
+---
+
+
+**copy constructor**
+
+A **copy constructor** is a special constructor that initializes a new object using another object of the same class.
+
+####Syntax
+
+```cpp
+ClassName(const ClassName &obj);
+```
+
+***Example***
+
+```cpp
+Student s1(10);
+Student s2 = s1;
+```
+
+Here, the copy constructor copies the contents of `s1` into `s2`.
+
+---
+
+#### When is a Copy Constructor Invoked?
+
+A copy constructor is invoked in the following situations:
+
+**When an object is initialized from another object**
+
+```cpp
+Student s1(10);
+Student s2 = s1;
+```
+
+---
+
+**When an object is passed by value to a function**
+
+```cpp
+void display(Student s) {
+}
+
+int main() {
+    Student s1(10);
+    display(s1);
+}
+```
+
+---
+
+**When an object is returned by value from a function**
+
+```cpp
+Student create() {
+    Student s(20);
+    return s;
+}
+```
+
+---
+
+**Difference Between Default, Parameterized and Copy Constructor**
+
+| Constructor | Arguments | Purpose |
+|------------|-----------|---------|
+| Default Constructor | No | Initializes object with default values |
+| Parameterized Constructor | Yes | Initializes object with user-defined values |
+| Copy Constructor | Existing object | Creates a copy of another object |
+
+---
+
