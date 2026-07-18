@@ -1,7 +1,7 @@
 **Object Oriented Programming in C++ (BIT154CO)**
 
 **Chapter.1:**
-
+--
 **Q.n.1. What is OOP? Explain any four features with examples. Differntiate OOP and POP.**
 
 Object-Oriented Programming (OOP) is a programming paradigm that organizes software design around objects rather than functions and procedures. An object contains data (attributes) and methods or functions that operate on the data.
@@ -103,7 +103,7 @@ public:
 | Example:       | C++, Python                                | C                                       |
 
 **Chapter.2:**
-
+--
 **Qn.1. What is the objective or use of "New" Keyword in oop.**
 
 Ans: In c++, The new keyword is used to dynamically allocate memory to variables or objects during program execution. The memory is allocated from the heap memory, and new returns the address of the allocated memory.
@@ -362,7 +362,7 @@ Advantages of Manipulators:
 4.Useful in reports, tables, and financial calculations.
 
 **Chapter.3**
-
+--
 **Qn.1 What are inline function? Write a C++ program demonstrating function overloading and default arguments.**
 
 Ans-**Inline Function in C++:**
@@ -509,6 +509,8 @@ sum(5, 15) = 20
 sum(5, 10, 15) = 30
 ```
 
+---
+
 #### Q.2 What is a Friend Function? Differentiate it from a Member Function. Write a C++ program to add two Distance objects using a Friend Function.
 
 A **friend function** is a function that is **not a member of a class**, but it is allowed to access the **private** and **protected** data members of that class.
@@ -642,6 +644,7 @@ Total Distance : 9 meter 20 centimeter
 ---
 
 **Chapter 6**
+--
 #### Qn.1 Explain All Types of Constructors in C++ with Programs. What is a Copy Constructor and When is it Invoked?
 
 
