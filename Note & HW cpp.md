@@ -509,7 +509,7 @@ sum(5, 15) = 20
 sum(5, 10, 15) = 30
 ```
 
-### Q.2 What is a Friend Function? Differentiate it from a Member Function. Write a C++ program to add two Distance objects using a Friend Function.
+#### Q.2 What is a Friend Function? Differentiate it from a Member Function. Write a C++ program to add two Distance objects using a Friend Function.
 
 A **friend function** is a function that is **not a member of a class**, but it is allowed to access the **private** and **protected** data members of that class.
 
@@ -528,9 +528,9 @@ public:
 };
 ```
 
-#### Features of a Friend Function
+**Features of a Friend Function**
 
-- It is **not a member** of the class.
+- It is not a member of the class.
 - It can access **private** and **protected** data members.
 - It is declared using the **`friend`** keyword.
 - It is called like a **normal function** (not through an object).
@@ -641,13 +641,12 @@ Total Distance : 9 meter 20 centimeter
 
 ---
 
-# Qn. Explain All Types of Constructors in C++ with Programs. What is a Copy Constructor and When is it Invoked?
+#### Qn. Explain All Types of Constructors in C++ with Programs. What is a Copy Constructor and When is it Invoked?
 
-## Introduction
 
 A **constructor** is a special member function of a class that is automatically called when an object is created. It is mainly used to initialize the data members of the class.
 
-### Characteristics of a Constructor
+**Characteristics of a Constructor**
 - Constructor name is the same as the class name.
 - It has no return type (not even `void`).
 - It is called automatically when an object is created.
