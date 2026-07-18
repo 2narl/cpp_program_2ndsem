@@ -641,7 +641,8 @@ Total Distance : 9 meter 20 centimeter
 
 ---
 
-#### Qn. Explain All Types of Constructors in C++ with Programs. What is a Copy Constructor and When is it Invoked?
+**Chapter 6**
+#### Qn.1 Explain All Types of Constructors in C++ with Programs. What is a Copy Constructor and When is it Invoked?
 
 
 A **constructor** is a special member function of a class that is automatically called when an object is created. It is mainly used to initialize the data members of the class.
