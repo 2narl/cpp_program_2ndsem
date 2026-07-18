@@ -508,3 +508,136 @@ sum(5) = 15
 sum(5, 15) = 20
 sum(5, 10, 15) = 30
 ```
+
+### Q.2 What is a Friend Function? Differentiate it from a Member Function. Write a C++ program to add two Distance objects using a Friend Function.
+
+A **friend function** is a function that is **not a member of a class**, but it is allowed to access the **private** and **protected** data members of that class.
+
+A friend function is **declared inside the class** using the `friend` keyword and **defined outside** the class.
+
+#### Syntax
+
+```cpp
+class ClassName
+{
+private:
+    int data;
+
+public:
+    friend void functionName(ClassName);
+};
+```
+
+#### Features of a Friend Function
+
+- It is **not a member** of the class.
+- It can access **private** and **protected** data members.
+- It is declared using the **`friend`** keyword.
+- It is called like a **normal function** (not through an object).
+
+---
+
+#### Difference Between Friend Function and Member Function
+
+| Friend Function | Member Function |
+|-----------------|-----------------|
+| Not a member of the class. | Member of the class. |
+| Declared using the `friend` keyword. | Declared normally inside the class. |
+| Can access private and protected members. | Can access private and protected members. |
+| Called like a normal function. | Called using an object (`obj.function()`). |
+| Does not use the `this` pointer. | Uses the `this` pointer implicitly. |
+
+---
+
+**C++ Program: Add Two Distance Objects Using a Friend Function**
+
+```cpp
+#include <iostream>
+using namespace std;
+
+class Distance
+{
+private:
+    int meter;
+    int centimeter;
+
+public:
+    // Constructor
+    Distance(int m = 0, int cm = 0)
+    {
+        meter = m;
+        centimeter = cm;
+    }
+
+    // Friend function declaration
+    friend Distance addDistance(Distance d1, Distance d2);
+
+    // Display function
+    void display()
+    {
+        cout << meter << " meter " << centimeter << " centimeter";
+    }
+};
+
+// Friend function definition
+Distance addDistance(Distance d1, Distance d2)
+{
+    Distance temp;
+
+    temp.meter = d1.meter + d2.meter;
+    temp.centimeter = d1.centimeter + d2.centimeter;
+
+    // Convert 100 cm into 1 meter
+    if (temp.centimeter >= 100)
+    {
+        temp.meter += temp.centimeter / 100;
+        temp.centimeter = temp.centimeter % 100;
+    }
+
+    return temp;
+}
+
+int main()
+{
+    Distance d1(5, 80);
+    Distance d2(3, 40);
+
+    Distance result;
+
+    result = addDistance(d1, d2);
+
+    cout << "First Distance : ";
+    d1.display();
+
+    cout << "\nSecond Distance: ";
+    d2.display();
+
+    cout << "\nTotal Distance : ";
+    result.display();
+
+    return 0;
+}
+```
+
+---
+
+**Output**
+
+```text
+First Distance : 5 meter 80 centimeter
+Second Distance: 3 meter 40 centimeter
+Total Distance : 9 meter 20 centimeter
+```
+
+---
+
+**Explanation**
+
+- The `Distance` class contains two private data members: `meter` and `centimeter`.
+- The function `addDistance()` is declared as a **friend function**, allowing it to access the private members of both `Distance` objects.
+- It adds the meter and centimeter values separately.
+- If the total centimeters become **100 or more**, they are converted into meters.
+- The function returns a new `Distance` object containing the final summed distance.
+
+---
+
