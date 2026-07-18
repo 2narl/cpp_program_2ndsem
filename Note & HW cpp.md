@@ -654,13 +654,13 @@ A **constructor** is a special member function of a class that is automatically 
 
 ---
 
-# Types of Constructors in C++
+**Types of Constructors in C++**
 
-## 1. Default Constructor
+#### 1. Default Constructor
 
 A **default constructor** is a constructor that takes no arguments. It initializes objects with default values.
 
-### Program
+**Program**
 
 ```cpp
 #include <iostream>
@@ -688,23 +688,23 @@ int main() {
 }
 ```
 
-### Output
+Output:
 
 ```
 ID = 101
 ```
 
-### Advantages
+**Advantages:**
 - Automatically initializes objects.
 - Reduces uninitialized data.
 
 ---
 
-# 2. Parameterized Constructor
+#### 2. Parameterized Constructor
 
 A **parameterized constructor** accepts arguments to initialize an object with user-defined values.
 
-### Program
+**Program**
 
 ```cpp
 #include <iostream>
@@ -732,29 +732,29 @@ int main() {
 }
 ```
 
-### Output
+Output:
 
 ```
 ID = 205
 ```
 
-### Advantages
+**Advantages:**
 - Initializes objects with different values.
 - Makes programs more flexible.
 
 ---
 
-# 3. Copy Constructor
+#### 3. Copy Constructor
 
 A **copy constructor** creates a new object by copying the contents of an existing object.
 
-### Syntax
+**Syntax**
 
 ```cpp
 ClassName(const ClassName &obj);
 ```
 
-### Program
+**Program**
 
 ```cpp
 #include <iostream>
@@ -789,20 +789,20 @@ int main() {
 }
 ```
 
-### Output
+Output:
 
 ```
 ID = 100
 ID = 100
 ```
 
-### Advantages
+**Advantages:**
 - Creates duplicate objects.
 - Useful for deep copying dynamic memory.
 
 ---
 
-# 4. Dynamic Constructor
+#### 4. Dynamic Constructor
 
 A **dynamic constructor** allocates memory dynamically using the `new` operator.
 
@@ -851,7 +851,7 @@ Value = 50
 
 ---
 
-**5. Constructor Overloading**
+#### 5. Constructor Overloading
 
 Constructor overloading means defining multiple constructors with different parameter lists.
 
@@ -890,7 +890,7 @@ int main() {
 }
 ```
 
-### Output
+Output:
 
 ```
 ID = 0
@@ -900,11 +900,11 @@ ID = 200
 ---
 
 
-**copy constructor**
+**What is a Copy Constructor?**
 
 A **copy constructor** is a special constructor that initializes a new object using another object of the same class.
 
-####Syntax
+#### Syntax
 
 ```cpp
 ClassName(const ClassName &obj);
