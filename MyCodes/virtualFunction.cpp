@@ -7,6 +7,7 @@ class Animal
 public:
     // virtual function enables overriding in derived classes virtual void speak()
     virtual void speak()
+
     {
         cout << "Animal makes a sound." << endl;
     }
