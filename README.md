@@ -107,7 +107,22 @@ Qn.21 Write a C++ program to demonstrate constructor overloading.
 <button>Click to View</button>
 </a>
 
-Qn.22
+Qn.22 Wrire a C++ program to demonstrate the concept of Constructor Overloading
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/78f3f312355b4d10d62cf942d49fa01bc00b888d/MyCodes/virtualFunction.cpp">
+<button>Click to View</button>
+</a>
+
+Qn.23 Write a C++ program to demonstrate the concept of Function Overriding without the virtual keyword (Static Binding).
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/78f3f312355b4d10d62cf942d49fa01bc00b888d/MyCodes/runTimePolymorphism_overriding.cpp">
+<button>Click to View</button>
+</a>
+
+Qn.24
+<a href="">
+<button>Click to View</button>
+</a>
+
+Qn.25
 <a href="">
 <button>Click to View</button>
 </a>
