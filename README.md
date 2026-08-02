@@ -122,7 +122,27 @@ Qn.24 Write a C++ program to demonstrate runtime polymorphism using an abstract 
 <button>Click to View</button>
 </a>
 
-Qn.25
+Qn.25 Write a C++ program to demonstrate the solution to the diamond problem in hybrid inheritance using virtual base classes, ensuring that the base class constructor is called only once when a derived class object is created.
+<a href="">
+<button>Click to View</button>
+</a>
+
+Qn.26
+<a href="">
+<button>Click to View</button>
+</a>
+
+Qn.27
+<a href="">
+<button>Click to View</button>
+</a>
+
+Qn.28
+<a href="">
+<button>Click to View</button>
+</a>
+
+Qn.29
 <a href="">
 <button>Click to View</button>
 </a>
