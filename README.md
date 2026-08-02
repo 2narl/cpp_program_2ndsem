@@ -117,7 +117,7 @@ Qn.23 Write a C++ program to demonstrate the concept of Function Overriding with
 <button>Click to View</button>
 </a>
 
-Qn.24
+Qn.24 Write a C++ program to demonstrate runtime polymorphism using an abstract class and pure virtual functions for a bank account system that handles different types of accounts and displays their interest rates.
 <a href="">
 <button>Click to View</button>
 </a>
