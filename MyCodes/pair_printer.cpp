@@ -22,6 +22,5 @@ int main()
 
     cout << "max: " << maxOf(10, 20) << endl;
 
-
     return 0;
 }
