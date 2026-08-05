@@ -132,18 +132,18 @@ Qn.26 Write a C++ program to demonstrate function template overloading and overl
 <button>Click to View</button>
 </a>
 
-Qn.27
-<a href="">
+Qn.27 Write a C++ program to demonstrate function template overloading and generic programming by utilizing a two-parameter describe template function to print diverse key-value pairs and a single-parameter maxOf template function to determine the maximum of two values.
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/6ac5d17f3a538dc54e8ee0bc6f65b1782934add9/MyCodes/pair_printer.cpp">
 <button>Click to View</button>
 </a>
 
-Qn.28
-<a href="">
+Qn.28Write a C++ program to demonstrate generic programming and data swapping using function templates by implementing a swapValues template function that utilizes reference parameters to successfully swap values of diverse data types including integers, floating-point numbers, and strings.
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/21f198e501d2b678329ac7026c43cdaa0d2d8f25/MyCodes/swap_demoTemplete.cpp">
 <button>Click to View</button>
 </a>
 
-Qn.29
-<a href="">
+Qn.29 Write a C++ program to demonstrate function overloading by implementing multiple non-template maxOf functions with different parameter types, ensuring that the compiler correctly resolves the appropriate function call based on whether the arguments are integers, floating-point numbers, or characters.
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/adf697850b244ce57a1185239cfb29b9d1c4874e/MyCodes/withOut_templetes.cpp">
 <button>Click to View</button>
 </a>
 
