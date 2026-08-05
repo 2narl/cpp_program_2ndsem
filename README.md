@@ -167,7 +167,7 @@ Qn.33 Write a C++ program to demonstrate a class template with two different dat
 <button>Click to View</button>
 </a>
 
-Qn.34
+Qn.34 Write a C++ program to demonstrate the use of namespaces.
 <a href="">
 <button>Click to View</button>
 </a>
