@@ -162,8 +162,8 @@ Qn.32 Write a C++ program to demonstrate the use of STL vector, sort(), and iter
 <button>Click to View</button>
 </a>
 
-Qn.33
-<a href="">
+Qn.33 Write a C++ program to demonstrate a class template with two different data types. Create a class template  that stores a key and a value of different data types, initialize them using a constructor, and display the key-value pair using a member function.
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/df8b5a7c758ab70a1fed8f72436566c37f5aee87/MyCodes/pairTemplate_demo.cpp">
 <button>Click to View</button>
 </a>
 
