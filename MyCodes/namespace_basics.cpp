@@ -9,6 +9,7 @@ namespace Physics
     }
 }
 
+// Another namespace with the calculate Area
 namespace Geometry
 {
     double calculateArea(double radius)
