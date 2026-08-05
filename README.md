@@ -157,8 +157,8 @@ Qn.31 Write a C++ program using the Standard Template Library (STL)  to implemen
 <button>Click to View</button>
 </a>
 
-Qn.32
-<a href="">
+Qn.32 Write a C++ program to demonstrate the use of STL vector, sort(), and iterators. Create a vector of integers, add a new element using push_back(), sort the elements in ascending order using sort(), and display the elements using both an iterator and a range-based for loop.
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/692474def92f945e062b3c463469858500b44983/MyCodes/vector_demo.cpp">
 <button>Click to View</button>
 </a>
 
