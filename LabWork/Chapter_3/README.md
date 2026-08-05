@@ -1,6 +1,6 @@
 # **Lab Work of Third Chapter**
 
- # SCENARIO 1 : Smart Calculator
+ # SCENARIO 1 : Smart Calculator 
 
  ---
  

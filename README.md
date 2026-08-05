@@ -147,28 +147,28 @@ Qn.29 Write a C++ program to demonstrate function overloading by implementing mu
 <button>Click to View</button>
 </a>
 
-Qn.30
-<a href="">
+Qn.30 Write a C++ program using Class Templates to implement a generic data container. The program should define a template class that can hold a single item of any data type.
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/11662f4dd8c9ff52581cfb38be7db690c78e784a/MyCodes/box_demotemplete.cpp">
 <button>Click to View</button>
 </a>
 
-Qn.31
-<a href="">
+Qn.31 Write a C++ program using the Standard Template Library (STL)  to implement a basic Student Grading System. The program should create a map container.
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/59f5ae6a6cdb66f1419981aad9d08149be625aef/MyCodes/map_demo.cpp">
 <button>Click to View</button>
 </a>
 
-Qn.32
-<a href="">
+Qn.32 Write a C++ program to demonstrate the use of STL vector, sort(), and iterators. Create a vector of integers, add a new element using push_back(), sort the elements in ascending order using sort(), and display the elements using both an iterator and a range-based for loop.
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/692474def92f945e062b3c463469858500b44983/MyCodes/vector_demo.cpp">
 <button>Click to View</button>
 </a>
 
-Qn.33
-<a href="">
+Qn.33 Write a C++ program to demonstrate a class template with two different data types. Create a class template  that stores a key and a value of different data types, initialize them using a constructor, and display the key-value pair using a member function.
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/df8b5a7c758ab70a1fed8f72436566c37f5aee87/MyCodes/pairTemplate_demo.cpp">
 <button>Click to View</button>
 </a>
 
-Qn.34
-<a href="">
+Qn.34 Write a C++ program to demonstrate the use of namespaces.
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/fc575fb88904dd7968ef315dc95dc4dd2adcc052/MyCodes/namespace_basics.cpp">
 <button>Click to View</button>
 </a>
 
