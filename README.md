@@ -171,7 +171,7 @@ Qn.34 Write a C++ program to demonstrate the use of namespaces.
 <a href="https://github.com/2narl/cpp_program_2ndsem/blob/e4a5820720f407a1b61369277ee99029c39b1836/MyCodes/namespace_basics.cpp">
 <button>Click to View</button>
 </a>
-
+Write a Program (WAP) to demonstrate the concept of Class Templates (or Generic Classes) in C++.
 Qn.35
 <a href="">
 <button>Click to View</button>
