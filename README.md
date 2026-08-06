@@ -181,3 +181,13 @@ Qn.36
 <a href="">
 <button>Click to View</button>
 </a>
+
+Qn.37
+<a href="">
+<button>Click to View</button>
+</a>
+
+Qn.38
+<a href="">
+<button>Click to View</button>
+</a>
