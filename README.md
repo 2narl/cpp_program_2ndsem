@@ -177,13 +177,13 @@ Qn.35 Write a Program (WAP) to demonstrate the concept of Class Templates (or Ge
 <button>Click to View</button>
 </a>
 
-Qn.36
-<a href="">
+Qn.36 Write a C++ program to demonstrate the concept of Exception Handling using try, catch, and throw.
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/6033a5833afd853a898cad1c07573191e5acf6fc/MyCodes/DivideByZero_ExeHand.cpp">
 <button>Click to View</button>
 </a>
 
-Qn.37 Write a C++ program to demonstrate the concept of Exception Handling using try, catch, and throw.
-<a href="https://github.com/2narl/cpp_program_2ndsem/blob/6033a5833afd853a898cad1c07573191e5acf6fc/MyCodes/DivideByZero_ExeHand.cpp">
+Qn.37
+<a href="">
 <button>Click to View</button>
 </a>
 
