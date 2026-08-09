@@ -212,17 +212,17 @@ Qn.40 Write a C++ program to perform file handling operations by creating a text
 <button>Click to View</button>
 </a>
 
-Qn.40
+Qn.41 Write a C++ program to demonstrate file handling by opening files directly through constructors.
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/d77f1fce1f1db483ac7b51e78ed37fd2e29e9d1a/MyCodes/fileopen_Close.cpp">
+<button>Click to View</button>
+</a>
+
+Qn.42
 <a href="">
 <button>Click to View</button>
 </a>
 
-Qn.40
-<a href="">
-<button>Click to View</button>
-</a>
-
-Qn.40
+Qn.43
 <a href="">
 <button>Click to View</button>
 </a>
