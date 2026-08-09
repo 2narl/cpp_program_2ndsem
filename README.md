@@ -202,7 +202,7 @@ Qn.38 Write a C++ program to demonstrate the concept of Multiple Catch Blocks in
 ### Unit: 9 File Handling
 ---
 
-Qn.39
+Qn.39 Write a C++ program to open a file named 'report.txt' in various file opening modes and perform multiple write operations.
 <a href="">
 <button>Click to View</button>
 </a>
