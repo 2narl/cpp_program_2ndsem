@@ -2,6 +2,10 @@
 
 This Repository Contains all the Programs and projects developed for the OOP in c++ Class.
 
+---
+### Unit 3: Functions Used in C++
+---
+
 Qn.1 "Hello world" program in c++.
 <a href="https://github.com/2narl/cpp_program_2ndsem/blob/1908a9a7964c933135d65aec7a3da02e9bc3e6d7/MyCodes/firstprogram.cpp">
 <button>Click to View</button>
@@ -9,6 +13,11 @@ Qn.1 "Hello world" program in c++.
 
 Qn.2 function declaration in c++.
 <a href="https://github.com/2narl/cpp_program_2ndsem/blob/36f68799d2481d989ddf6ad013670650f0b31426/MyCodes/simpleprogram.cpp">
+<button>Click to View</button>
+</a>
+
+Qn.3 Write a C++ program to demonstrate the concept of an Inline Function.
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/36f68799d2481d989ddf6ad013670650f0b31426/MyCodes/inlinefunction.cpp">
 <button>Click to View</button>
 </a>
 
@@ -32,10 +41,7 @@ Qn.6 Write a C++ program to demonstrate the concept of Function Overloading.
 <button>Click to View</button>
 </a>
 
-Qn.7 Write a C++ program to demonstrate the concept of an Inline Function.
-<a href="https://github.com/2narl/cpp_program_2ndsem/blob/36f68799d2481d989ddf6ad013670650f0b31426/MyCodes/inlinefunction.cpp">
-<button>Click to View</button>
-</a>
+
 
 Qn.8 Write a C++ program to demonstrate the concept of a Class and Object.
 <a href="https://github.com/2narl/cpp_program_2ndsem/blob/1c3a324092aba1826c93734764611bd0ad202e34/MyCodes/classObject.cpp">
@@ -191,6 +197,10 @@ Qn.38 Write a C++ program to demonstrate the concept of Multiple Catch Blocks in
 <a href="https://github.com/2narl/cpp_program_2ndsem/blob/a411ac444feaaa86854e38f63df9df6a8538f031/MyCodes/tryCatch_program2.cpp">
 <button>Click to View</button>
 </a>
+
+---
+### Unit: 9 File Handling
+---
 
 Qn.39
 <a href="">
