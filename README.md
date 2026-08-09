@@ -45,15 +45,10 @@ Qn.6 Write a C++ program to demonstrate the concept of Default Arguments in func
 ---
 
 
-Qn.4 Create an object in c++.
+Qn.7 Create an object in c++.
 <a href="https://github.com/2narl/cpp_program_2ndsem/blob/36f68799d2481d989ddf6ad013670650f0b31426/MyCodes/normalobject.cpp">
 <button>Click to View</button>
 </a>
-
-
-
-
-
 
 
 Qn.8 Write a C++ program to demonstrate the concept of a Class and Object.
@@ -86,10 +81,31 @@ Qn.13 Write a C++ program to demonstrate the use of the protected access specifi
 <button>Click to View</button>
 </a>
 
-Qn.14 Write a C++ program to demonstrate parameterized constructor in single inheritance and modification of protected data members.
+---
+### Unit 5: Constructor % Deconstructor
+
+Qn.14 Write a C++ program to demonstrate the use of a copy constructor.
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/935aa54f495bef11a4aa430b09a7dece2cd93e83/MyCodes/Copy_constructor.cpp">
+<button>Click to View</button>
+</a>
+
+Qn.15 Write a C++ program to demonstrate constructor overloading.
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/1bc9ef16e76daf6d04f1f1514dc824933c67a2fe/MyCodes/constructor_overloading.cpp">
+<button>Click to View</button>
+</a>
+
+Qn.16 Write a C++ program to demonstrate the concept of Constructor Overloading
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/78f3f312355b4d10d62cf942d49fa01bc00b888d/MyCodes/virtualFunction.cpp">
+<button>Click to View</button>
+</a>
+
+Qn.17 Write a C++ program to demonstrate parameterized constructor in single inheritance and modification of protected data members.
 <a href="https://github.com/2narl/cpp_program_2ndsem/blob/17e89efb40fa405eddd534849efb1bf52034f05c/MyCodes/ExAccessSpecified_Protected.cpp">
 <button>Click to View</button>
 </a>
+
+---
+### Unit 6: Operator Overloading
 
 Qn.15 Write a C++ program to demonstrate the use of an array of objects for storing and displaying student information.
 <a href="https://github.com/2narl/cpp_program_2ndsem/blob/6b6150571c584de074c6dd9df2c0a9ebbe40ff75/MyCodes/ArrayofObject.cpp">
@@ -113,21 +129,6 @@ Qn.18 Write a C++ program to demonstrate the concept of a Friend Class.
 
 Qn.19 Write a C++ program to demonstrate the use of a friend function to calculate the area of a rectangle.
 <a href="https://github.com/2narl/cpp_program_2ndsem/blob/4865e98967779cc77389ee91eb87217991e7579e/MyCodes/friendfunction.cpp">
-<button>Click to View</button>
-</a>
-
-Qn.20 Write a C++ program to demonstrate the use of a copy constructor.
-<a href="https://github.com/2narl/cpp_program_2ndsem/blob/935aa54f495bef11a4aa430b09a7dece2cd93e83/MyCodes/Copy_constructor.cpp">
-<button>Click to View</button>
-</a>
-
-Qn.21 Write a C++ program to demonstrate constructor overloading.
-<a href="https://github.com/2narl/cpp_program_2ndsem/blob/1bc9ef16e76daf6d04f1f1514dc824933c67a2fe/MyCodes/constructor_overloading.cpp">
-<button>Click to View</button>
-</a>
-
-Qn.22 Wrire a C++ program to demonstrate the concept of Constructor Overloading
-<a href="https://github.com/2narl/cpp_program_2ndsem/blob/78f3f312355b4d10d62cf942d49fa01bc00b888d/MyCodes/virtualFunction.cpp">
 <button>Click to View</button>
 </a>
 
