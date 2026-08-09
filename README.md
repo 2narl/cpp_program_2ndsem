@@ -79,7 +79,7 @@ Qn.12 Write a Program (WAP) to demonstrate the concept of Method Chaining using 
 
 
 ---
-### Unit 5: Constructor % Deconstructor
+### Unit 5: Constructor & Deconstructor
 ---
 
 Qn.14 Write a C++ program to demonstrate the use of a copy constructor.
