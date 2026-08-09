@@ -203,7 +203,7 @@ Qn.38 Write a C++ program to demonstrate the concept of Multiple Catch Blocks in
 ---
 
 Qn.39 Write a C++ program to open a file named 'report.txt' in various file opening modes and perform multiple write operations.
-<a href="">
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/e5123bf6af295fe703979107ef7f9416c00c75bd/MyCodes/fileOpenAndSave.cpp">
 <button>Click to View</button>
 </a>
 
