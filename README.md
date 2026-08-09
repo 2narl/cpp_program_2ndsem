@@ -82,42 +82,42 @@ Qn.12 Write a Program (WAP) to demonstrate the concept of Method Chaining using 
 ### Unit 5: Constructor & Deconstructor
 ---
 
-Qn.14 Write a C++ program to demonstrate the use of a copy constructor.
+Qn.13 Write a C++ program to demonstrate the use of a copy constructor.
 <a href="https://github.com/2narl/cpp_program_2ndsem/blob/935aa54f495bef11a4aa430b09a7dece2cd93e83/MyCodes/Copy_constructor.cpp">
 <button>Click to View</button>
 </a>
 
-Qn.15 Write a C++ program to demonstrate constructor overloading.
+Qn.14 Write a C++ program to demonstrate constructor overloading.
 <a href="https://github.com/2narl/cpp_program_2ndsem/blob/1bc9ef16e76daf6d04f1f1514dc824933c67a2fe/MyCodes/constructor_overloading.cpp">
 <button>Click to View</button>
 </a>
 
-Qn.16 Write a C++ program to demonstrate the concept of Constructor Overloading
+Qn.15 Write a C++ program to demonstrate the concept of Constructor Overloading
 <a href="https://github.com/2narl/cpp_program_2ndsem/blob/78f3f312355b4d10d62cf942d49fa01bc00b888d/MyCodes/virtualFunction.cpp">
 <button>Click to View</button>
 </a>
 
-Qn.17 Write a C++ program to demonstrate parameterized constructor in single inheritance and modification of protected data members.
+Qn.16 Write a C++ program to demonstrate parameterized constructor in single inheritance and modification of protected data members.
 <a href="https://github.com/2narl/cpp_program_2ndsem/blob/17e89efb40fa405eddd534849efb1bf52034f05c/MyCodes/ExAccessSpecified_Protected.cpp">
 <button>Click to View</button>
 </a>
 
-Qn.15 Write a C++ program to demonstrate the use of an array of objects for storing and displaying student information.
+Qn.17 Write a C++ program to demonstrate the use of an array of objects for storing and displaying student information.
 <a href="https://github.com/2narl/cpp_program_2ndsem/blob/6b6150571c584de074c6dd9df2c0a9ebbe40ff75/MyCodes/ArrayofObject.cpp">
 <button>Click to View</button>
 </a>
 
-Qn.17 Write a C++ program to demonstrate the concept of a friend class in a Bank Management System for accessing and displaying private data members.
+Qn.18 Write a C++ program to demonstrate the concept of a friend class in a Bank Management System for accessing and displaying private data members.
 <a href="https://github.com/2narl/cpp_program_2ndsem/blob/e874e247f20fbaf7480959254ffa9badf47af72e/MyCodes/friendClass_bankAccount.cpp">
 <button>Click to View</button>
 </a>
 
-Qn.18 Write a C++ program to demonstrate the concept of a Friend Class.
+Qn.19 Write a C++ program to demonstrate the concept of a Friend Class.
 <a href="https://github.com/2narl/cpp_program_2ndsem/blob/533ba679d32b37ef830e39d938c54176920dca0f/MyCodes/friendClass.cpp">
 <button>Click to View</button>
 </a>
 
-Qn.19 Write a C++ program to demonstrate the use of a friend function to calculate the area of a rectangle.
+Qn.20 Write a C++ program to demonstrate the use of a friend function to calculate the area of a rectangle.
 <a href="https://github.com/2narl/cpp_program_2ndsem/blob/4865e98967779cc77389ee91eb87217991e7579e/MyCodes/friendfunction.cpp">
 <button>Click to View</button>
 </a>
