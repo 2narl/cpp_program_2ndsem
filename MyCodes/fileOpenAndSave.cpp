@@ -16,7 +16,7 @@ int main()
     file << "Hello World." << endl;
     file.close();
 
-    file.open("report.txt", ios::out | ios::app | ios::binary);
+    file.open("report.txt", ios::out | ios::app);
 
     if (!file)
     {
