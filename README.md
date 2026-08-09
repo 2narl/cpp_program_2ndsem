@@ -35,7 +35,7 @@ Qn.5 Write a C++ program to demonstrate the concept of Function Overloading.
 <button>Click to View</button>
 </a>
 
-Qn.5 Write a C++ program to demonstrate the concept of Default Arguments in functions.
+Qn.6 Write a C++ program to demonstrate the concept of Default Arguments in functions.
 <a href="https://github.com/2narl/cpp_program_2ndsem/blob/36f68799d2481d989ddf6ad013670650f0b31426/MyCodes/defaultargument.cpp">
 <button>Click to View</button>
 </a>
