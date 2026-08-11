@@ -170,6 +170,11 @@ Qn. Write a C++ program to demonstrate file handling by opening files directly t
 <button>Click to View</button>
 </a>
 
+Qn. Write a C++ program to demonstrate the concept of object file handling by writing and reading structured member data using sequential formatted file I/O operations.
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/93382c30ceabcd1c39f1de9ebb365b26c18090e8/MyCodes/formattedIO.cpp">
+<button>Click to View</button>
+</a>
+
 ---
 ### Unit 10: Templates & Namespaces
 ---
