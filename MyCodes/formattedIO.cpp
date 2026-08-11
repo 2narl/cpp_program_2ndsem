@@ -27,14 +27,14 @@ public:
 
     void writeFormatted()
     {
-        ofstream file("student.txt");
+        ofstream file("student2.txt", ios::app);
         file << name << " " << age << " " << marks << endl;
         file.close();
     }
 
     void readFormatted()
     {
-        ifstream file("student.txt");
+        ifstream file("student2.txt");
         file >> name >> age >> marks;
         file.close();
     }
