@@ -15,7 +15,7 @@ double area(double l, double b)
     return l * b;
 }
 // Area of Triangle
-double area(double b, double h)
+double area(double b, double h, string T)
 {
     return 0.5 * b * h;
 }
@@ -37,7 +37,7 @@ int main()
     cout << "Enter base and height of triangle: ";
     cin >> base >> height;
 
-    cout << "Area of triangle = " << area(base, height) << endl;
+    cout << "Area of triangle = " << area(base, height, "T") << endl;
 
     return 0;
 }
