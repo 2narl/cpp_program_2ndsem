@@ -11,7 +11,7 @@ private:
     int age;
 
 public:
-    static int count;
+    static int count; // static data member
 
     Student(string s, int a)
     {
