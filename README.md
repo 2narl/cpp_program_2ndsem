@@ -155,7 +155,7 @@ Qn.25 Write a C++ program to demonstrate the use of the protected access specifi
 ### Unit: 9 File Handling
 ---
 
-Qn. Write a C++ program to open a file named 'report.txt' in various file opening modes and perform multiple write operations.
+Qn.26 Write a C++ program to open a file named 'report.txt' in various file opening modes and perform multiple write operations.
 <a href="https://github.com/2narl/cpp_program_2ndsem/blob/e5123bf6af295fe703979107ef7f9416c00c75bd/MyCodes/fileOpenAndSave.cpp">
 <button>Click to View</button>
 </a>
