@@ -146,7 +146,7 @@ Qn.24 Write a C++ program to demonstrate function template overloading and overl
 <button>Click to View</button>
 </a>
 
-Qn. Write a C++ program to demonstrate the use of the protected access specifier and single inheritance by accessing a protected data member in a derived class.
+Qn.25 Write a C++ program to demonstrate the use of the protected access specifier and single inheritance by accessing a protected data member in a derived class.
 <a href="https://github.com/2narl/cpp_program_2ndsem/blob/5f429efa8848cd2f812b4b1121dc62e80b2fd570/MyCodes/protected_accessSpecifier.cpp">
 <button>Click to View</button>
 </a>
