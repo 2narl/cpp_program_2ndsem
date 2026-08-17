@@ -184,7 +184,7 @@ Qn.30 Write a C++ program to demonstrate a class template with two different dat
 <button>Click to View</button>
 </a>
 
-Qn. Write a C++ program to demonstrate the use of namespaces.
+Qn.31 Write a C++ program to demonstrate the use of namespaces.
 <a href="https://github.com/2narl/cpp_program_2ndsem/blob/e4a5820720f407a1b61369277ee99029c39b1836/MyCodes/namespace_basics.cpp">
 <button>Click to View</button>
 </a>
