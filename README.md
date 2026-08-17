@@ -126,7 +126,7 @@ Qn.20 Write a C++ program to demonstrate the use of a friend function to calcula
 ### Unit 8: Virtual Function & Polymorphism
 ---
 
-Qn. Write a C++ program to demonstrate the concept of Function Overriding without the virtual keyword (Static Binding).
+Qn.21 Write a C++ program to demonstrate the concept of Function Overriding without the virtual keyword (Static Binding).
 <a href="https://github.com/2narl/cpp_program_2ndsem/blob/78f3f312355b4d10d62cf942d49fa01bc00b888d/MyCodes/runTimePolymorphism_overriding.cpp">
 <button>Click to View</button>
 </a>
