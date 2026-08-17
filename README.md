@@ -160,7 +160,7 @@ Qn.26 Write a C++ program to open a file named 'report.txt' in various file open
 <button>Click to View</button>
 </a>
 
-Qn. Write a C++ program to perform file handling operations by creating a text file to store student details. The program should initially write a student record, then open the file again to add another student record without overwriting the previous data, and finally read the entire file to display all records on the screen.
+Qn.27 Write a C++ program to perform file handling operations by creating a text file to store student details. The program should initially write a student record, then open the file again to add another student record without overwriting the previous data, and finally read the entire file to display all records on the screen.
 <a href="https://github.com/2narl/cpp_program_2ndsem/blob/c7a68119184e605272a8424013679babde051c21/MyCodes/fileWriteDataStd.cpp">
 <button>Click to View</button>
 </a>
