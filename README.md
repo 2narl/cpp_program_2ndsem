@@ -141,7 +141,7 @@ Qn.23 Write a C++ program to demonstrate the solution to the diamond problem in 
 <button>Click to View</button>
 </a>
 
-Qn. Write a C++ program to demonstrate function template overloading and overload resolution by utilizing the provided template and non-template  functions, ensuring that the compiler prioritizes the non-template function for exact matches and resolves three-argument calls by nesting two-argument calls.
+Qn.24 Write a C++ program to demonstrate function template overloading and overload resolution by utilizing the provided template and non-template  functions, ensuring that the compiler prioritizes the non-template function for exact matches and resolves three-argument calls by nesting two-argument calls.
 <a href="https://github.com/2narl/cpp_program_2ndsem/blob/a064d61eb97c27ed2dfae56409245cfaed86edf8/MyCodes/overload_demo.cpp">
 <button>Click to View</button>
 </a>
