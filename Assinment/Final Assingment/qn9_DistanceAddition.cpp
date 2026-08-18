@@ -28,10 +28,46 @@ public:
 
     friend Distance operator+(const Distance &d1, const Distance &d2);
 
-    void tometers() const
+    // convert feet and inches in meters and centimeter.
+    void toMeters() const
     {
         double totalMeters = (feet * 0.3048) + (inches * 0.0254);
+
         int meters = (int)totalMeters;
         double centimeters = (totalMeters - meters) * 100;
+
+        cout << "After Converting." << endl;
+        cout << meters << " m, " << centimeters << " cm" << endl;
     }
 };
+
+Distance operator+(const Distance &d1, const Distance &d2)
+{
+    int f = d1.feet + d2.feet;
+    float i = d1.inches + d2.inches;
+
+    if (i >= 12.0)
+    {
+        f += static_cast<int>(i / 12);
+        i = (int)i % 12 + (i - (int)i);
+    }
+    return Distance(f, i);
+}
+
+int main()
+{
+    Distance d1(5, 8.5), d2(2, 6.5);
+
+    std::cout << "Distance 1: ";
+    d1.display();
+    std::cout << "Distance 2: ";
+    d2.display();
+
+    Distance sum = d1 + d2;
+
+    std::cout << "\nTotal Distance: ";
+    sum.display();
+    sum.toMeters();
+
+    return 0;
+}
