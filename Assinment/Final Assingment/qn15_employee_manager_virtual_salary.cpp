@@ -43,3 +43,7 @@ public:
         cout << "Total Salary: Rs. " << totalSalary << endl;
     }
 };
+
+int main()
+{
+}
