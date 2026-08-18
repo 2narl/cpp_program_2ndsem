@@ -60,6 +60,6 @@ public: // constructor 2 ota nai base class lai
 int main()
 {
     Book myBook("OOP with C++", 590.36, 15402.59, "E Balagurusamy", 680);
-    myBook.display();
+    myBook.display(); //
     return 0;
 }
