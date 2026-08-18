@@ -1,4 +1,4 @@
-/*Write a program in C++ to define a class ‘Employee’ with a virtual function
+/*Qn.15 Write a program in C++ to define a class ‘Employee’ with a virtual function
 ‘Salary’. Derive the class ‘Manager’ from the class ‘Employee’ and implement
 the salary function. assumptions.*/
 
@@ -35,7 +35,7 @@ public:
     void Salary() override
     {
         double totalSalary = basicSalary + bonus;
-
+        cout << "==Manager Detail ==" << endl;
         cout << "Id: " << id << endl;
         cout << "Name: " << name << endl;
         cout << "Basic Salary: Rs. " << basicSalary << endl;
@@ -46,4 +46,14 @@ public:
 
 int main()
 {
+    Employee *emp;
+
+    Manager manager(1026, "Suman Rana", 35000, 5600);
+
+    emp = &manager;
+
+    // Calls Manager's Salary() due to virtual function
+    emp->Salary();
+
+    return 0;
 }
