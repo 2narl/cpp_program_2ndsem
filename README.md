@@ -214,12 +214,12 @@ Qn.36 Write a C++ program using the Standard Template Library (STL)  to implemen
 <button>Click to View</button>
 </a>
 
-Qn. Write a C++ program to demonstrate the use of STL vector, sort(), and iterators. Create a vector of integers, add a new element using push_back(), sort the elements in ascending order using sort(), and display the elements using both an iterator and a range-based for loop.
+Qn.37 Write a C++ program to demonstrate the use of STL vector, sort(), and iterators. Create a vector of integers, add a new element using push_back(), sort the elements in ascending order using sort(), and display the elements using both an iterator and a range-based for loop.
 <a href="https://github.com/2narl/cpp_program_2ndsem/blob/692474def92f945e062b3c463469858500b44983/MyCodes/vector_demo.cpp">
 <button>Click to View</button>
 </a>
 
-Qn. Write a C++ program to demonstrate function template overloading and generic programming by utilizing a two-parameter describe template function to print diverse key-value pairs and a single-parameter maxOf template function to determine the maximum of two values.
+Qn.38 Write a C++ program to demonstrate function template overloading and generic programming by utilizing a two-parameter describe template function to print diverse key-value pairs and a single-parameter maxOf template function to determine the maximum of two values.
 <a href="https://github.com/2narl/cpp_program_2ndsem/blob/6ac5d17f3a538dc54e8ee0bc6f65b1782934add9/MyCodes/pair_printer.cpp">
 <button>Click to View</button>
 </a>
