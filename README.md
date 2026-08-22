@@ -237,7 +237,7 @@ Qn.40 Write a C++ program to demonstrate the concept of Exception Handling using
 <button>Click to View</button>
 </a>
 
-Qn. Write a C++ program to demonstrate User-Defined (Custom) Exception Handling using OOP concepts.
+Qn.41 Write a C++ program to demonstrate User-Defined (Custom) Exception Handling using OOP concepts.
 <a href="https://github.com/2narl/cpp_program_2ndsem/blob/de550dadfe305019e94335152c3176ec5238e0ea/MyCodes/TryCatch_InClass.cpp">
 <button>Click to View</button>
 </a>
