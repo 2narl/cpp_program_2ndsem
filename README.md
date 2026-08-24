@@ -242,7 +242,7 @@ Qn.41 Write a C++ program to demonstrate User-Defined (Custom) Exception Handlin
 <button>Click to View</button>
 </a>
 
-Qn. Write a C++ program to demonstrate the concept of Multiple Catch Blocks in Exception Handling.
+Qn.42 Write a C++ program to demonstrate the concept of Multiple Catch Blocks in Exception Handling.
 <a href="https://github.com/2narl/cpp_program_2ndsem/blob/a411ac444feaaa86854e38f63df9df6a8538f031/MyCodes/tryCatch_program2.cpp">
 <button>Click to View</button>
 </a>
