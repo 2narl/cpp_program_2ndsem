@@ -248,10 +248,7 @@ Qn.42 Write a C++ program to demonstrate the concept of Multiple Catch Blocks in
 <button>Click to View</button>
 </a>
 
-Qn.
-<a href="">
-<button>Click to View</button>
-</a>
+
 
 Qn.
 <a href="">
