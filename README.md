@@ -251,6 +251,6 @@ Qn.42 Write a C++ program to demonstrate the concept of Multiple Catch Blocks in
 ---
 
 <footer>
-        <p></p>
-        <p>Contact us at <a href="mailto:narayanaryal927@gmail.com">Email</a></p>
+        <p>Education Purpose Only.</p>
+        <p>Contact: <a href="mailto:narayanaryal927@gmail.com">Email</a></p>
 </footer>
