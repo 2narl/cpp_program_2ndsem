@@ -24,9 +24,8 @@
  
  - Basic Arithmetic Operations
 
- <a href="https://github.com/2narl/cpp_program_2ndsem/blob/6210a4e4f6f5bd1dc73b007d607ef82dd345a922/LabWork/smartCalculator.cpp">
-  hi
- </a>
+<p>Source Code</p>
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/6210a4e4f6f5bd1dc73b007d607ef82dd345a922/LabWork/smartCalculator.cpp">Click to View</a>
  
  ---
 
