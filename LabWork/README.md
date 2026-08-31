@@ -82,7 +82,7 @@ Create a result-processing system for students.
 * **Real-world business application:**
 
 
-<b><p>Source Code: <a href="">Click to View</a></p></b>
+<b><p>Source Code: <a href="https://github.com/2narl/cpp_program_2ndsem/blob/db81c3a8194ca68e1e265470fcd550d5be01c81b/LabWork/studentResultproce.cpp">Click to View</a></p></b>
  
 ---
 
