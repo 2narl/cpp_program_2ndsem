@@ -7,7 +7,7 @@ This Repository Contains all the Programs and projects developed for the OOP in 
 ---
 
 Qn.1 Using "New" keyword or dynamic memory allocation program in c++.
-<a href="https://github.com/2narl/cpp_program_2ndsem/blob/40af90b7ae73a28ad56b20954750e098fca12a55/MyCodes/newkeywordex.cpp" target="_blank">
+<a href="https://github.com/2narl/cpp_program_2ndsem/blob/40af90b7ae73a28ad56b20954750e098fca12a55/MyCodes/newkeywordex.cpp" target="_blank" rel="noopener noreferrer">
 <button>Click to View</button>
 </a>
 
