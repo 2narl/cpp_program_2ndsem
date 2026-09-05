@@ -3,7 +3,8 @@
     (ii) Right Justified
     (iii) Two-digit precision
     (iv) Filling of unused places with *
-    (v) Trailing zeroes shown*/
+    (v) Trailing zeroes shown
+*/
 
 #include <iostream>
 #include <iomanip>
